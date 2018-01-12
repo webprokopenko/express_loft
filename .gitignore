@@ -1,0 +1,6 @@
+app/bower
+node_modules
+dist
+server
+.vscode
+config.json
