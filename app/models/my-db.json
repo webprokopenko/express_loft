@@ -18,5 +18,10 @@
     "directory": "upload/kovalchuk.png",
     "url": "http://itloft.com",
     "description": "IT Loft новый сайт"
+  },
+  "Test": {
+    "directory": "upload/road_to_serfdom.jpg",
+    "url": "http://itloft.com",
+    "description": "About this"
   }
 }
